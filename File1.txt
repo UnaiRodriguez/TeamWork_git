@@ -1,3 +1,5 @@
 Team_Work->Sergio and Unai
 
 Changed content on branch newFeature
+
+Developer 1 has change the file
