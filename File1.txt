@@ -1,3 +1,9 @@
 Team_Work->Sergio and Unai
 
+<<<<<<< HEAD
 Content has been changed in step 16
+=======
+Changed content on branch newFeature again
+
+Developer 1 has change the file
+>>>>>>> newFeature

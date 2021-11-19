@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some text for file 3
+=======
+File3
+>>>>>>> newFeature
