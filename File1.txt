@@ -1,5 +1,0 @@
-Team_Work->Sergio and Unai
-
-Changed content on branch newFeature
-
-changes on File 1 by developer 1
